@@ -18,6 +18,7 @@ The research activity consists in the development of adaptive control algorithms
 <h2>Testing</h2>
 
 Different test has been realized to test the efficiency of the controller. The position one work well, still improving the force controller.
+Begore to launch Test.m, run Path_robot and Corke_model.
 
 <h3> References </h3>
 
