@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618587151 source:c:\users\pc\desktop\mex_test\da c a matlab\roba per testare compilatori\create_yb\y_buona_test\main.cpp
+	<iostream>
+	<math.h>
+	"C:\Users\pc\Desktop\mex_test\Da C a MATLAB\Roba per testare compilatori\create_YB\Y_buona\main.h"
+
+1618493111 c:\users\pc\desktop\mex_test\da c a matlab\roba per testare compilatori\create_yb\y_buona\main.h
+	<windows.h>
+
