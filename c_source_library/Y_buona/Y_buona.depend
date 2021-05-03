@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1618655063 source:c:\users\pc\desktop\mex_test\da c a matlab\roba per testare compilatori\create_yb\y_buona\main.cpp
+	"main.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1618493111 c:\users\pc\desktop\mex_test\da c a matlab\roba per testare compilatori\create_yb\y_buona\main.h
+	<windows.h>
+
