@@ -25,6 +25,7 @@ dA1dt=dw1dt * d_Delta_x;
 dA2dt=dw2dt * d_Delta_x;
 dA3dt=dw3dt * d_Delta_x;
 
+
 dA(:,1)=dA1dt * xdes + dwdx1 * dxdes;
 dA(:,2)=dA2dt * xdes + dwdx2 * dxdes;
 dA(:,3)=dA3dt * xdes + dwdx3 * dxdes;
