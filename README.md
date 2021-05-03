@@ -1,7 +1,7 @@
 
 <h1>Region-Controller-IIWA</h1>
 
-Developed by: D. Piccoli, DA. Santopaolo(2020).
+Developed by: D. Piccoli, A. Santopaolo(2020).
 
 Supervisor: prof. Fanny Ficuciello (University of Naples Federico II)
 
